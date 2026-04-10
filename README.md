@@ -77,7 +77,7 @@ You play as a character running along an **infinite road** filled with monsters 
 
 ## 👨‍💻 Developer
 
-**Dixit Joy** — [@Dixitjoy08](https://github.com/Dixitjoy08)
+**Joy Dixit** — [@Dixitjoy08](https://github.com/Dixitjoy08)
 
 ---
 
