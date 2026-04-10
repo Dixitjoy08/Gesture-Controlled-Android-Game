@@ -46,7 +46,7 @@ You play as a character running along an **infinite road** filled with monsters 
 | **Android Studio** | App development |
 | **TensorFlow Lite (TFLite)** | Real-time hand gesture recognition |
 | **Camera API** | Live camera feed for gesture detection |
-| **Java/Kotlin** | Android app logic |
+| **Java** | Android app logic |
 
 ---
 
